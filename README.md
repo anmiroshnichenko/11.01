@@ -24,16 +24,16 @@
 
 ### Задание 1
 
-   `https://github.com/anmiroshnichenko/dz_git/commit/0cdb991574ca68595fe3030ea41f345059ad8132`
+   https://github.com/anmiroshnichenko/dz_git/commit/0cdb991574ca68595fe3030ea41f345059ad8132
 
 ### Задание 2
-   `https://github.com/anmiroshnichenko/dz_git/commit/ccf14a8f8d77aafd28f3984482f67f64d2bd3c49`
+   https://github.com/anmiroshnichenko/dz_git/commit/ccf14a8f8d77aafd28f3984482f67f64d2bd3c49
 
 ### Задание 3
-   `https://github.com/anmiroshnichenko/dz_git/network`
+   https://github.com/anmiroshnichenko/dz_git/network
 
 ### Задание 4
-   `https://github.com/anmiroshnichenko/dz_git/network`
+   https://github.com/anmiroshnichenko/dz_git/network
 
 ### Ссылка на все задания в Google Docs
-   `https://docs.google.com/document/d/1QxfzbPL6DdfKy7VUxy_3tuL72fj0StsRFZ5B4Abd1ZE/edit?usp=sharing` 
+   https://docs.google.com/document/d/1QxfzbPL6DdfKy7VUxy_3tuL72fj0StsRFZ5B4Abd1ZE/edit?usp=sharing 
